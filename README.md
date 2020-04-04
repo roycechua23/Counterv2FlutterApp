@@ -1,6 +1,7 @@
 # counterv2
 
 Upgraded version of the default counter app in flutter create. Based from Chapter 3 of Flutter in Action by Eric Windmill
+
 Book link: [https://www.manning.com/books/flutter-in-action](https://www.manning.com/books/flutter-in-action)
 
 ## Getting Started
